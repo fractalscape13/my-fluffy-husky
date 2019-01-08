@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a basic HTML webpage which contains text and pictures showing how cute and wonderful huskies are, as well as some examples of animals that aren't as cute. _
+_This is a basic HTML webpage which contains text and pictures showing how cute and wonderful huskies are, as well as some examples of animals that aren't as cute._
 
 ## Setup/Installation Requirements
 
@@ -14,22 +14,22 @@ _This is a basic HTML webpage which contains text and pictures showing how cute 
 * _Open my-fluffy-husky.html in browser to view page_
 * _Open my-fluffy-husky.html in text editor to view code_
 
-_{Site is very basic, no servers or databases are necessary at this point.}_
+_Site is very basic, no servers or databases are necessary at this point._
 
 ## Known Bugs
 
-_{No known bugs or issues.}_
+_No known bugs or issues._
 
 ## Support and contact details
 
-_{For support or comments contact JW at fractalscape13@gmail.com}_
+_For support or comments contact JW at fractalscape13@gmail.com_
 
 ## Technologies Used
 
-_{This page was created usihg HTML}_
+_This page was created usihg HTML_
 
 ### License
 
-*{MIT license}*
+*MIT license*
 
-Copyright (c) 2019 **_{JW, JT, FL}_**
+Copyright (c) 2019 **_JW, JT, FL_**
