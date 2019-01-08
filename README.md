@@ -1,4 +1,4 @@
-# _{my-fluffy-husky}_
+# _my-fluffy-husky_
 
 #### _{To explain why huskies are the cutest dogs}, {1/7/19}_
 
