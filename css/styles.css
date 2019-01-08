@@ -1,0 +1,18 @@
+h1 {
+  color: green;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 50px;
+}
+
+h2 {
+  color: gold;
+  text-align: center;
+  font-family: monospace;
+}
+
+ol {
+  color: purple;
+  text-align: left;
+  font-family: monospace;
+}
