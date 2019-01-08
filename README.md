@@ -1,12 +1,12 @@
 # _my-fluffy-husky_
 
-#### _{To explain why huskies are the cutest dogs}, {1/7/19}_
+#### _To explain why huskies are the cutest dogs, 1/7/19_
 
-#### By _**{JW, JT, FL}**_
+#### By _**JW, JT, FL**_
 
 ## Description
 
-_{This is a basic HTML webpage which contains text and pictures showing how cute and wonderful huskies are, as well as some examples of animals that aren't as cute. }_
+_This is a basic HTML webpage which contains text and pictures showing how cute and wonderful huskies are, as well as some examples of animals that aren't as cute. _
 
 ## Setup/Installation Requirements
 
